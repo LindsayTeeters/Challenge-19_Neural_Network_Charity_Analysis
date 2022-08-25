@@ -1,5 +1,7 @@
-<iframe src="https://giphy.com/embed/R7rJl2YTK3XT3sfYeT" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-R7rJl2YTK3XT3sfYeT">via GIPHY</a></p>
 
+<p align="center">
+  <img width="600" src="https://media.giphy.com/media/26n6OmfaR7wr0iXqU/giphy.gif">
+</p>
 
 <h1 align="center"><u>Challenge 19: Neural Network Charity Analysis</u></h1>
 
