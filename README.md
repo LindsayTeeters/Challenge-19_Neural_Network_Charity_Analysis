@@ -1,5 +1,6 @@
-
-https://media.giphy.com/media/OYYEmdLiVMBKPifwrc/giphy.gif
+<p align="center">
+ <img width="600" src="https://media.giphy.com/media/OYYEmdLiVMBKPifwrc/giphy.gif">
+</p>
 
 <h1 align="center"><u>Challenge 19: Neural Network Charity Analysis</u></h1>
 
